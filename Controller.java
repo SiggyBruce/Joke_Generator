@@ -1,10 +1,9 @@
 import java.awt.event.*;
 /**
- * Controller.java - APR-14-2016 - ITEC 220: Project 4 -
- * This class contains methods that control the flow of the program.
- * Implements the ActionListener interface.
+ * Name: Controller.java
+ * Description: This class contains methods that control the flow of the program. Implements the ActionListener interface.
  * @author Tre Haga
- * @version 1.0
+ * @version April 14, 2016
  */
 public class Controller implements ActionListener
 {
